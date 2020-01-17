@@ -21,9 +21,6 @@ namespace WarriorWars
             {
                 return isAlive;
             }
-            set
-            {
-            }
         }
 
         private Weapon weapon;
